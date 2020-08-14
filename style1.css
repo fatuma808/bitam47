@@ -1,0 +1,43 @@
+
+
+footer {
+     background-color: rgba(0,0,0,0.7);
+     padding: 25px;
+    }
+
+li a{
+	text-decoration: none;
+	color: black;
+}    
+
+ul{
+	text-decoration: none;
+	color: black;
+
+}
+
+.contact-formNews{
+	position: absolute;
+	top:45%;
+	left: 80%;
+	-webkit-transform:translate(-50%,-50%);
+	-moz-transform:translate(-50%,-50%);
+	-ms-transform:translate(-50%,-50%);
+	-o-transform:translate(-50%,-50%);
+	transform: translate(-50%,-50%);
+	width: 32%;
+	height: 65%;
+	padding: 80px 40px;
+	background:rgba(0,0,0,0.3);
+}
+
+/*.hero{
+	height: auto;
+	width: 100%;
+	background-image: url(images/clouds1.jpg);
+	background-position: center;
+	background-size: cover;
+	position: absolute;
+}
+*/
+
